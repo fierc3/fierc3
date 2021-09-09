@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hello there 👋
+
+![Alt Text](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e4703kbxpvzaomubrex2ugmh8sn7bw3cs49anp7mt9g&rid=giphy.gif&ct=g)
+
+My name is Mike! Nice to meet you.
+
+As most people I have various interests and thus don't have a single title which describes me nicely.
+
+Here are a few I like:
+
+- 💻 Fullstack Software Engineer
+- 👨‍🎓 CS Student
+- 🎮 App / Game Dev
+
+Want some more facts?
+- 🔭 I’m currently working on university projects, apps like EnergizeMe and helping startups (checked pinned)
+- 🌱 I’m currently learning React & Unity
+- 👯 I’m looking to collaborate on any interesting ideas. I like helping projects / startups that are in need of help, espescially software / web development help
+- 📫 How to reach me: mpullen9@gmail.com
+- ⚡ Fun fact: I did not expect anyone to read all of this
 
 <!--
 **fierc3/fierc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
