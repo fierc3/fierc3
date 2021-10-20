@@ -14,9 +14,9 @@ Here are a few I like:
 
 Want some more facts?
 - 🔭 I’m currently working on university projects, apps like EnergizeMe and helping startups (checked pinned)
-- 🌱 I’m currently learning React & Unity
+- 🌱 I’m currently learning Python, React & Unity
 - 👯 I’m looking to collaborate on any interesting ideas. I like helping projects / startups that are in need of help, espescially software / web development help
-- 📫 How to reach me: mpullen9@gmail.com
+- 📫 How to reach me: mike@amaruq.ch
 - ⚡ Fun fact: I did not expect anyone to read all of this
 
 <!--
