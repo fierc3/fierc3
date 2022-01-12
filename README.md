@@ -11,6 +11,7 @@ Here are a few I like:
 - 💻 Fullstack Software Engineer
 - 👨‍🎓 CS Student
 - 🎮 App / Game Dev
+- 🧠 ML
 
 Want some more facts?
 - 🔭 I’m currently working on university projects, apps like EnergizeMe and helping startups (checked pinned)
