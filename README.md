@@ -20,8 +20,6 @@ Want some more facts?
 - 📫 How to reach me: mike@amaruq.ch
 - ⚡ Fun fact: I did not expect anyone to read all of this
 
-[![@problemsome's Holopin board](https://holopin.io/api/user/board?user=problemsome)](https://holopin.io/@problemsome)
-
 <!--
 **fierc3/fierc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
