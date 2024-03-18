@@ -6,31 +6,17 @@ My name is Mike! Nice to meet you.
 
 As most people I have various interests and thus don't have a single title which describes me nicely.
 
-Here are a few I like:
+I am a few things:
 
 - 💻 Fullstack Software Engineer
-- 👨‍🎓 CS Student
+- 👨‍🎓 Reserach Assistant
 - 🎮 App / Game Dev
-- 🧠 ML
+- ⚒️ Game Tool Programmer
+- 🧠 ML Enthusiast
 
-Want some more facts?
-- 🔭 I’m currently working on university projects, apps like EnergizeMe and helping startups
-- 🌱 I’m currently learning C#, React & Unity
-- 👯 I’m looking to collaborate on any interesting ideas. I like helping projects/startups that are in need of help, especially software / web development help
+What I am currently working on:
+- tbd
+
+Contact:
 - 📫 How to reach me: mike@amaruq.ch
-- ⚡ Fun fact: I did not expect anyone to read all of this
 
-<!--
-**fierc3/fierc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
