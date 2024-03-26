@@ -9,7 +9,7 @@ As most people I have various interests and thus don't have a single title which
 I am a few things:
 
 - 💻 Fullstack Software Engineer
-- 👨‍🎓 Reserach Assistant
+- 👨‍🎓 Research Assistant
 - 🎮 App / Game Dev
 - ⚒️ Game Tool Programmer
 - 🧠 ML Enthusiast
