@@ -4,8 +4,6 @@
 
 My name is Mike! Nice to meet you.
 
-As most people I have various interests and thus don't have a single title which describes me nicely.
-
 I am a few things:
 
 - 💻 Fullstack Software Engineer
@@ -15,7 +13,7 @@ I am a few things:
 - 🧠 ML Enthusiast
 
 What I am currently working on:
-- tbd
+- Godot 4
 
 Contact:
 - 📫 How to reach me: mike@amaruq.ch
