@@ -13,7 +13,7 @@ I am a few things:
 - 🧠 ML Enthusiast
 
 What I am currently working on:
-- a untitled western shooter
+- an untitled western shooter
 - devlog videos
 - XR / VR research
 
