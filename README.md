@@ -9,11 +9,13 @@ I am a few things:
 - 💻 Fullstack Software Engineer
 - 👨‍🎓 Research Assistant
 - 🎮 App / Game Dev
-- ⚒️ Game Tool Programmer
+- ⚒️ Game Programmer
 - 🧠 ML Enthusiast
 
 What I am currently working on:
-- Godot 4
+- a untitled western shooter
+- devlog videos
+- XR / VR research
 
 Contact:
 - 📫 How to reach me: mike@amaruq.ch
