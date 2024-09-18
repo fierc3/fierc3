@@ -15,7 +15,7 @@ I am a few things:
 What I am currently working on:
 - an untitled western shooter
 - devlog videos
-- XR / VR research
+- Immersive realities research like VR, XR, GS etc.
 
 Contact:
 - 📫 How to reach me: mike@amaruq.ch
