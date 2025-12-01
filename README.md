@@ -28,6 +28,9 @@ Leading AI development and contributing to full-stack engineering across SwissGR
   *Bachelor of Science in Informatics, Hochschule Luzern (HSLU)*  
   *(2024, Rotkreuz)*  
 
+- **Gaussian Splatting vs. Classical Photogrammetry: A Comparison for Virtual Backdrops**
+  *2025 17th International Conference on Quality of Multimedia Experience (QoMEX)* - DOI: 10.1109/qomex65720.2025.11219987
+
 - **VR Planica: Gaussian Splatting Workflows for Immersive Storytelling**  
   *ACM IMX Workshops 2025* · DOI [10.5753/imxw.2025.8141](https://doi.org/10.5753/imxw.2025.8141)
 
