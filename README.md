@@ -23,25 +23,18 @@ Leading AI development and contributing to full-stack engineering across SwissGR
 - **[During Dusk](https://amaruq.ch/projects/#during-dusk)** – 24-hour Unreal Engine challenge game, a time-trial racer built with UE5 Blueprints, Lumen, and MetaHumans *(2022)*  
 - **[EnergizeMe](https://amaruq.ch/projects/#energizeme)** – Arcade game created during vocational school, later released using Unity and C# *(2019)*  
 
-### 🔬 My Research  
-- **Bachelor Thesis (HSLU)** – *Mobile App for Low-Cost Motion Capture*  
-  *Bachelor of Science in Informatics, Hochschule Luzern (HSLU)*  
-  *(2024, Rotkreuz)*  
+### 🔬 Latest Research
+**ORCID:** [0009-0002-7320-1041](https://orcid.org/0009-0002-7320-1041)
+<!-- BEGIN ORCID-CARDS -->
 
-- **Gaussian Splatting vs. Classical Photogrammetry: A Comparison for Virtual Backdrops**
-  *2025 17th International Conference on Quality of Multimedia Experience (QoMEX)* - DOI: 10.1109/qomex65720.2025.11219987
-
-- **VR Planica: Gaussian Splatting Workflows for Immersive Storytelling**  
-  *ACM IMX Workshops 2025* · DOI [10.5753/imxw.2025.8141](https://doi.org/10.5753/imxw.2025.8141)
-
-📚 **ORCID:** [0009-0002-7320-1041](https://orcid.org/0009-0002-7320-1041)
+<!-- END ORCID-CARDS -->
 
 ### 📺 Latest GameDev Videos
+gamedev youtube: [problemsome](https://www.youtube.com/problemsome)
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Adding Auto-Climb for Smooth Gameplay #gamedev](https://ytcards.demolab.com/?id=lnZbsPqhrfc&title=Adding+Auto-Climb+for+Smooth+Gameplay+%23gamedev&lang=en&timestamp=1743950595&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17 "Adding Auto-Climb for Smooth Gameplay #gamedev")](https://www.youtube.com/shorts/lnZbsPqhrfc)
-[![I Made a HORROR Game Trailer (it was easy)](https://ytcards.demolab.com/?id=kYfX1fg1Z4o&title=I+Made+a+HORROR+Game+Trailer+%28it+was+easy%29&lang=en&timestamp=1731763833&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=326 "I Made a HORROR Game Trailer (it was easy)")](https://www.youtube.com/watch?v=kYfX1fg1Z4o)
-[![A Good Boy Never Dies - Announcement Trailer (Unreal Engine 5 Horror 2025)](https://ytcards.demolab.com/?id=Qj9imLId1Nc&title=A+Good+Boy+Never+Dies+-+Announcement+Trailer+%28Unreal+Engine+5+Horror+2025%29&lang=en&timestamp=1731762033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=90 "A Good Boy Never Dies - Announcement Trailer (Unreal Engine 5 Horror 2025)")](https://www.youtube.com/watch?v=Qj9imLId1Nc)
+
 <!-- END YOUTUBE-CARDS -->
+
 
 
 ## 📫 Get in Touch  
