@@ -1,0 +1,32 @@
+name: Update Orcid
+
+on:
+  schedule:
+    # Runs at 2:19 AM UTC (3:19 AM Swiss time)
+    # Much more likely to start instantly because the queue is empty.
+    - cron: '19 2 * * *'
+  workflow_dispatch: # Allows manual run
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Test ORCID Fetch
+        uses: fierc3/github-readme-orcid-cards@main
+        with:
+          # Example ORCID ID
+          orcid_id: '0009-0002-7320-1041'
+          max_papers: 2
+      
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md cards/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update ORCID publications" && git push)
