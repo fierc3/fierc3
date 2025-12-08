@@ -24,7 +24,7 @@ Leading AI development and contributing to full-stack engineering across SwissGR
 - **[EnergizeMe](https://amaruq.ch/projects/#energizeme)** – Arcade game created during vocational school, later released using Unity and C# *(2019)*  
 
 ### 🔬 Latest Research
-**ORCID:** [0009-0002-7320-1041](https://orcid.org/0009-0002-7320-1041)
+ORCID: [0009-0002-7320-1041](https://orcid.org/0009-0002-7320-1041)
 <!-- BEGIN ORCID-CARDS -->
 
 <!-- END ORCID-CARDS -->
