@@ -23,7 +23,7 @@ Leading AI development and contributing to full-stack engineering across SwissGR
 - **[During Dusk](https://amaruq.ch/projects/#during-dusk)** – 24-hour Unreal Engine challenge game, a time-trial racer built with UE5 Blueprints, Lumen, and MetaHumans *(2022)*  
 - **[EnergizeMe](https://amaruq.ch/projects/#energizeme)** – Arcade game created during vocational school, later released using Unity and C# *(2019)*  
 
-## 📚 Latest Research Publications
+### 📚 Latest Research Publications
 
 *Publications from [ORCID: 0009-0002-7320-1041](https://orcid.org/0009-0002-7320-1041)*
 <!-- BEGIN ORCID-CARDS -->
