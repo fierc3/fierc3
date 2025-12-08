@@ -38,7 +38,12 @@ Leading AI development and contributing to full-stack engineering across SwissGR
 
 ### 📺 Latest GameDev Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Adding Auto-Climb for Smooth Gameplay #gamedev](https://ytcards.demolab.com/?id=lnZbsPqhrfc&title=Adding+Auto-Climb+for+Smooth+Gameplay+%23gamedev&lang=en&timestamp=1743950595&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17 "Adding Auto-Climb for Smooth Gameplay #gamedev")](https://www.youtube.com/shorts/lnZbsPqhrfc)
+[![I Made a HORROR Game Trailer (it was easy)](https://ytcards.demolab.com/?id=kYfX1fg1Z4o&title=I+Made+a+HORROR+Game+Trailer+%28it+was+easy%29&lang=en&timestamp=1731763833&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=326 "I Made a HORROR Game Trailer (it was easy)")](https://www.youtube.com/watch?v=kYfX1fg1Z4o)
+[![A Good Boy Never Dies - Announcement Trailer (Unreal Engine 5 Horror 2025)](https://ytcards.demolab.com/?id=Qj9imLId1Nc&title=A+Good+Boy+Never+Dies+-+Announcement+Trailer+%28Unreal+Engine+5+Horror+2025%29&lang=en&timestamp=1731762033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=90 "A Good Boy Never Dies - Announcement Trailer (Unreal Engine 5 Horror 2025)")](https://www.youtube.com/watch?v=Qj9imLId1Nc)
+[![Adding a DARK FANTASY world to my HORROR game](https://ytcards.demolab.com/?id=OeEm3ASx07I&title=Adding+a+DARK+FANTASY+world+to+my+HORROR+game&lang=en&timestamp=1731231132&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13 "Adding a DARK FANTASY world to my HORROR game")](https://www.youtube.com/shorts/OeEm3ASx07I)
+[![I added SPIDERS to my HORROR GAME (I regret it)](https://ytcards.demolab.com/?id=x1nfIZ4nMuk&title=I+added+SPIDERS+to+my+HORROR+GAME+%28I+regret+it%29&lang=en&timestamp=1730160493&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16 "I added SPIDERS to my HORROR GAME (I regret it)")](https://www.youtube.com/shorts/x1nfIZ4nMuk)
+[![I found this at night....    #horror](https://ytcards.demolab.com/?id=pRV26dFp-Y0&title=I+found+this+at+night....++++%23horror&lang=en&timestamp=1730074242&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=27 "I found this at night....    #horror")](https://www.youtube.com/shorts/pRV26dFp-Y0)
 <!-- END YOUTUBE-CARDS -->
 
 
