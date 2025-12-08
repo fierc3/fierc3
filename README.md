@@ -27,6 +27,20 @@ Leading AI development and contributing to full-stack engineering across SwissGR
 
 *Publications from [ORCID: 0009-0002-7320-1041](https://orcid.org/0009-0002-7320-1041)*
 <!-- BEGIN ORCID-CARDS -->
+<table>
+<tr>
+<td width="50%">
+
+[![Gaussian Splatting vs. Classical Photogrammetry: A](cards/paper_card_0.svg)](https://doi.org/10.1109/qomex65720.2025.11219987)
+
+</td>
+<td width="50%">
+
+[![VR Planica: Gaussian Splatting Workflows for Immer](cards/paper_card_1.svg)](https://doi.org/10.5753/imxw.2025.8141)
+
+</td>
+</tr>
+</table>
 
 <!-- END ORCID-CARDS -->
 
