@@ -36,6 +36,11 @@ Leading AI development and contributing to full-stack engineering across SwissGR
 
 📚 **ORCID:** [0009-0002-7320-1041](https://orcid.org/0009-0002-7320-1041)
 
+### 📺 Latest GameDev Videos
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+
 ## 📫 Get in Touch  
 📧 [mike@amaruq.ch](mailto:mike@amaruq.ch)  
 💼 [linkedin.com/in/mike-pullen](https://linkedin.com/in/mike-pullen)
