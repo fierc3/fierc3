@@ -22,7 +22,7 @@ jobs:
         with:
           # Example ORCID ID
           orcid_id: '0009-0002-7320-1041'
-          max_papers: 2
+          max_papers: 3
       
       - name: Commit and push if changed
         run: |
