@@ -23,14 +23,15 @@ Leading AI development and contributing to full-stack engineering across SwissGR
 - **[During Dusk](https://amaruq.ch/projects/#during-dusk)** – 24-hour Unreal Engine challenge game, a time-trial racer built with UE5 Blueprints, Lumen, and MetaHumans *(2022)*  
 - **[EnergizeMe](https://amaruq.ch/projects/#energizeme)** – Arcade game created during vocational school, later released using Unity and C# *(2019)*  
 
-### 🔬 Latest Research
-ORCID: [0009-0002-7320-1041](https://orcid.org/0009-0002-7320-1041)
+## 📚 Latest Research Publications
+
+*Publications from [ORCID: 0009-0002-7320-1041](https://orcid.org/0009-0002-7320-1041)*
 <!-- BEGIN ORCID-CARDS -->
 
 <!-- END ORCID-CARDS -->
 
 ### 📺 Latest GameDev Videos
-gamedev youtube: [problemsome](https://www.youtube.com/problemsome)
+*Videos from gamedev youtube: [problemsome](https://www.youtube.com/problemsome)*
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Adding Auto-Climb for Smooth Gameplay #gamedev](https://ytcards.demolab.com/?id=lnZbsPqhrfc&title=Adding+Auto-Climb+for+Smooth+Gameplay+%23gamedev&lang=en&timestamp=1743950595&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17 "Adding Auto-Climb for Smooth Gameplay #gamedev")](https://www.youtube.com/shorts/lnZbsPqhrfc)
 [![I Made a HORROR Game Trailer (it was easy)](https://ytcards.demolab.com/?id=kYfX1fg1Z4o&title=I+Made+a+HORROR+Game+Trailer+%28it+was+easy%29&lang=en&timestamp=1731763833&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=326 "I Made a HORROR Game Trailer (it was easy)")](https://www.youtube.com/watch?v=kYfX1fg1Z4o)
