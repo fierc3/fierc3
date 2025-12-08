@@ -27,7 +27,7 @@ Leading AI development and contributing to full-stack engineering across SwissGR
 
 *Publications from [ORCID: 0009-0002-7320-1041](https://orcid.org/0009-0002-7320-1041)*
 <!-- BEGIN ORCID-CARDS -->
-[![Gaussian Splatting vs. Classic](cards/paper_card_0.svg)](https://doi.org/10.1109/qomex65720.2025.11219987) [![VR Planica: Gaussian Splatting](cards/paper_card_1.svg)](https://doi.org/10.5753/imxw.2025.8141)
+<a href="https://doi.org/10.1109/qomex65720.2025.11219987"><img src="cards/paper_card_0.svg" width="250" alt="Gaussian Splatting vs. Classic"></a> <a href="https://doi.org/10.5753/imxw.2025.8141"><img src="cards/paper_card_1.svg" width="250" alt="VR Planica: Gaussian Splatting"></a>
 
 
 <!-- END ORCID-CARDS -->
