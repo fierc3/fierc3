@@ -3,8 +3,6 @@ I'm a **Software & AI Engineer** focused on combining **cutting-edge AI** with s
 
 Outside of work, I explore **game development** and **computer graphics**.
 
-## 🚀 My Work  
-
 ### 📚 Latest Research Publications
 
 *Publications from [ORCID: 0009-0002-7320-1041](https://orcid.org/0009-0002-7320-1041)*
