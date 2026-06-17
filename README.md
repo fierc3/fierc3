@@ -31,5 +31,5 @@ Outside of work, I explore **game development** and **computer graphics**.
 <br />
 
 ## 📫 Get in Touch  
-📧 [mike@amaruq.ch](mailto:mike@amaruq.ch)  
+📧 [pullen.mike@pm.me](mailto:pullen.mike@pm.me)  
 💼 [linkedin.com/in/mike-pullen](https://linkedin.com/in/mike-pullen)
